@@ -1,0 +1,2 @@
+rootProject.name = "architecture2021"
+include ':app'
